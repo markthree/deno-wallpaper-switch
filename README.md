@@ -1,5 +1,7 @@
 # deno-wallpaper-switch
 
+![deno-wallpaper-switch](./snapshot.gif)
+
 由 [Deno](https://deno.land/) 实现的自动切换壁纸，可以结合系统的任务计划实现每日自动切换壁纸。
 
 <br />
