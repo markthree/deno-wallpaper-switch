@@ -1,0 +1,6 @@
+{
+    "tasks": {
+        "start": "deno run -A src/cli.ts",
+        "compile": "deno compile -A src/cli.ts && mv src.exe src/cli.exe"
+    }
+}
